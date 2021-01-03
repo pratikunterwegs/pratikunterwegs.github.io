@@ -3,47 +3,41 @@ bio: My research interests include distributed robotics, mobile computing and pr
   matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Theoretical Biology
+    institution: University of Groningen and Dept. Coastal Systems, NIOZ
+    year: 2022
+  - course: Erasmus Mundus International Master's in Applied Ecology
+    institution: University of Kiel, University of Coimbra, University of Poitiers
+    year: 2017
+  - course: BSc in Zoology and Biochemistry
+    institution: St. Xavier's College – University of Mumbai
+    year: 2014
 email: ""
 highlight_name: false
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Movement ecology
+- Spatial ecology
+- Data wrangling
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: University of Groningen
+- name: Dept. Coastal Systems - NIOZ
+  url: ""
+role: PhD student in Evolutionary Ecology
 social:
 - icon: envelope
   icon_pack: fas
-  link: /#contact
+  link: "mailto:p.r.gupte@rug.nl"
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/pratikunterwegs
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0001-5294-7819
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://github.com/pratikunterwegs
 superuser: true
-title: Nelson Bighetti
+title: Pratik R Gupte
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I'm interested in animal movement across spatio-temporal scales, from foraging decisions to occupancy.
