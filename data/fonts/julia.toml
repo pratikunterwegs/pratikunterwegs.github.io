@@ -6,7 +6,7 @@ google_fonts = "Bree+Serif|Libre+Baskerville|Roboto+Mono"
 
 # Font families
 heading_font = "Bree Serif"
-body_font = "Libre Baskerville"
+body_font = "Bree Serif"
 nav_font = "Bree Serif"
 mono_font = "Roboto Mono"
 
