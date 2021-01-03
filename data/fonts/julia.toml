@@ -1,0 +1,15 @@
+# Font style metadata
+name = "julia"
+
+# Optional Google font URL
+google_fonts = "Bree+Serif|Libre+Baskerville|Roboto+Mono"
+
+# Font families
+heading_font = "Bree Serif"
+body_font = "Libre Baskerville"
+nav_font = "Bree Serif"
+mono_font = "Roboto Mono"
+
+# Font size
+font_size = "18"
+font_size_small = "16"

@@ -2,10 +2,10 @@
 # Hero widget.
 widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Academic"
+title = "Life on the Move"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
 hero_media = "hero-academic.png"
@@ -38,7 +38,7 @@ hero_media = "hero-academic.png"
 #   Remove a link/note by deleting a cta/note block.
 [cta]
   url = "https://sourcethemes.com/academic/docs/install/"
-  label = "Get Started"
+  label = "Get Started2"
   icon_pack = "fas"
   icon = "download"
   
