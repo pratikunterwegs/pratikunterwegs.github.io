@@ -2,14 +2,14 @@
 name = "julia"
 
 # Optional Google font URL
-google_fonts = "Bree+Serif|Libre+Baskerville|Roboto+Mono"
+google_fonts = "Bree+Serif|Libre+Baskerville|Roboto"
 
 # Font families
 heading_font = "Bree Serif"
-body_font = "Bree Serif"
+body_font = "Roboto"
 nav_font = "Bree Serif"
 mono_font = "Roboto Mono"
 
 # Font size
 font_size = "18"
-font_size_small = "16"
+font_size_small = "18"
