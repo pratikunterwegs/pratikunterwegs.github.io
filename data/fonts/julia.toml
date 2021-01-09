@@ -2,7 +2,7 @@
 name = "julia"
 
 # Optional Google font URL
-google_fonts = "Source+Serif+Pro:400|IBM+Plex+Serif:700|Roboto"
+google_fonts = "Source+Serif+Pro:400|IBM+Plex+Serif|Roboto|Source+Sans+Pro"
 
 # Font families
 heading_font = "IBM Plex Serif"

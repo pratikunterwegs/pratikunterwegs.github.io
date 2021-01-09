@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Scientific Trajectory"
-subtitle = "I have worked on a number of field and analysis focussed projects, in 5 countries, on 3 continents. My field experience includes the Arctic tundra, high-altitude desert, tropical drylands, and the North Sea intertidal. This has involved coding in `R`, `Python`, and `C++`, reproducibly wrangling spatial data, driving off-road, handling birds and mammals, and writing up papers."
+subtitle = "I have worked on a number of field and analysis focussed projects, in 5 countries, on 3 continents. My field experience includes the Arctic tundra, high-altitude desert, tropical drylands, and the North Sea intertidal. This has involved coding in `R`/`Python`/`C++`, reproducibly wrangling spatial data, driving off-road, handling birds and mammals, and writing up papers."
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format

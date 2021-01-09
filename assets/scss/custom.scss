@@ -9,9 +9,26 @@ body {
   min-height: 100px !important;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1 {
+  font-family: IBM Plex Sans;
+	font-weight: 600;
+  letter-spacing: 0.0em;
+  font-style: italic;
+  color: #172A3A;
+}
+
+h2, h3, h4, h5 {
+  font-family: IBM Plex Sans;
 	font-weight: 400;
   letter-spacing: 0.04em;
+  color: #172A3A;
+}
+
+h6 {
+  font-family: IBM Plex Serif;
+	font-weight: 400;
+  letter-spacing: 0.04em;
+  font-size: 1.5em;
   color: #172A3A;
 }
 
@@ -31,6 +48,7 @@ a:hover {
 }
 
 .navbar {
+  font-family: IBM Plex Sans;
   box-shadow: none;
   text-transform: titlecase;
 	letter-spacing: .09em;
@@ -38,6 +56,7 @@ a:hover {
 }
 
 .navbar-brand {
+  font-family: IBM Plex Sans;
   text-transform: titlecase;
   font-weight: 700;
 	letter-spacing: .1em;
