@@ -5,15 +5,15 @@ name = "julia"
 light = true
 
 # Primary
-primary = "#8486B2"
+primary = "#30635A"
 
 # Menu
-menu_primary = "#ffc58f"
-menu_text = "#4d4d4c"
+menu_primary = "#30635A"
+menu_text = "#ffffff"
 menu_text_active = "#4d4d4c"
-menu_title = "#4d4d4c"
+menu_title = "#ffffff"
 
 # Backgrounds
 background = "#d6d6d6"
 home_section_odd = "#d6d6d6"
-home_section_even = "#efefef"
+home_section_even = "#dedede"

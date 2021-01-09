@@ -2,12 +2,12 @@
 name = "julia"
 
 # Optional Google font URL
-google_fonts = "Bree+Serif|Libre+Baskerville|Roboto"
+google_fonts = "Source+Serif+Pro:400|IBM+Plex+Serif:700|Roboto"
 
 # Font families
-heading_font = "Bree Serif"
-body_font = "Roboto"
-nav_font = "Bree Serif"
+heading_font = "IBM Plex Serif"
+body_font = "Source Serif Pro"
+nav_font = "IBM Plex Serif"
 mono_font = "Roboto Mono"
 
 # Font size

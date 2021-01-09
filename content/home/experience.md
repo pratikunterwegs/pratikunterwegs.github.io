@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Work Experience"
-subtitle = "something here"
+title = "Scientific Trajectory"
+subtitle = "I have worked on a number of field and analysis focussed projects, in 5 countries, on 3 continents. My field experience includes the Arctic tundra, high-altitude desert, tropical drylands, and the North Sea intertidal. This has involved coding in `R`, `Python`, and `C++`, reproducibly wrangling spatial data, driving off-road, handling birds and mammals, and writing up papers."
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -18,26 +18,19 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "PhD student and guest researcher"
-  company = "University of Groningen, and Dept. Coastal Systems -- Royal Netherlands Institute for Sea Research"
+  title = "PhD Student and Guest Researcher"
+  company = "University of Groningen & Dept. Coastal Systems -- NIOZ"
   # company_url = "https://rug.nl/staff/p.r.gupte/"
   location = "Groningen, The Netherlands"
   date_start = "2018-05-01"
   date_end = ""
-  description = """I'm studying the causes and consequences of movement strategies in animal populations, using a combination of empirical data and mechanistic individual based simulation models.
-
-  My PhD involves:
-  
-  * Handling large datasets of high-resolution tracking data from the [WATLAS](https://www.nioz.nl/en/about/cos/coastal-movement-ecology/shorebird-tracking/watlas-tracking-regional-movements) time-of-arrival tracking system. 
-  * Writing and maintaining the `R` package [watlastools](https://pratikunterwegs.github.io/watlastools/) to process WATLAS data.
-  * Designing and/or writing individual based simulations _Kleptomove_, _Infomove_, and _perlinWalker_ in `C++`, and analysis simulation output in `R` and `Python`.
-  * Mentoring master's and bachelor's students for thesis and course-related projects, some fieldwork supporting the red knot catching team, organising departmental seminars, and representing the institute's PhD students before the Faculty Board.
+  description = """I'm studying the causes and consequences of movement strategies in animal populations, using the [WATLAS system](https://www.nioz.nl/en/about/cos/coastal-movement-ecology/shorebird-tracking/watlas-tracking-regional-movements), and individual based simulations.
 
   I also collaborate on occupancy modelling of montane passerines using eBird data from southern India with [Vijay Ramesh](https://evolecol.weebly.com/) and [Morgan Tingley](https://www.morgantingley.com/).
   """
 
 [[experience]]
-  title = "Research assistant"
+  title = "Research Assistant"
   company = "ATREE Ashoka Trust for Research in Ecology and the Environment, and CES – IISc Centre for Ecological Sciences, Indian Institute for Science"
   location = "Bangalore, India"
   date_start = "2017-10-16"
@@ -45,7 +38,7 @@ date_format = "Jan 2006"
   description = """Analysed GPS tracking data from elephants in Kruger National Park, South Africa, and meso-carnivores in Maharashtra, India. Wrote the paper [Thaker, Gupte et. al (2019)](https://www.frontiersin.org/articles/10.3389/fevo.2019.00004/full)"""
 
 [[experience]]
-  title = "Master's student"
+  title = "Master's Student"
   company = "Max Planck Insitute for Animal Behaviour [then MPI Ornithology]"
   location = "Radolfzell am Bodensee, Germany"
   date_start = "2017-04-01"
@@ -59,8 +52,9 @@ date_format = "Jan 2006"
   date_start = "2015-01-04"
   date_end = "2015-07-30"
   description = """Collected data and transported fish for a project replicating a collective movement experiment."""
+
 [[experience]]
-  title = "Field assistant"
+  title = "Field Assistant"
   company = "Succulent Karoo Research Station"
   location = "Springbok, South Africa"
   date_start = "2014-09-10"

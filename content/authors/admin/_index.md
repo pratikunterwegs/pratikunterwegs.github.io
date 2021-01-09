@@ -1,9 +1,7 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
 education:
   courses:
-  - course: PhD in Theoretical Biology
+  - course: PhD in Ecology and Evolution
     institution: University of Groningen and Dept. Coastal Systems, NIOZ
     year: 2022
   - course: Erasmus Mundus International Master's in Applied Ecology
@@ -15,14 +13,15 @@ education:
 email: ""
 highlight_name: false
 interests:
-- Movement ecology
-- Spatial ecology
+- Movement & spatial ecology
+- Fieldwork & ornithology
 - Data wrangling
+- Map-making
+- Cycling, racketsports, birding etc.
 organizations:
 - name: University of Groningen
-- name: Dept. Coastal Systems - NIOZ
   url: ""
-role: PhD student in Evolutionary Ecology
+role: PhD Student
 social:
 - icon: envelope
   icon_pack: fas
@@ -40,4 +39,6 @@ superuser: true
 title: Pratik R Gupte
 ---
 
-I'm interested in animal movement across spatio-temporal scales, from foraging decisions to occupancy.
+I'm keen on bringing my skills in `R` programming and (spatial) data-wrangling to bear on clear and evident problems, rather than open-ended exploratory research.
+
+My training and experience has been in animal movement and space-use across spatio-temporal scales. I want to help ensure that the world's many amazing and mobile species survive the current climate and biodiversity crisis.
