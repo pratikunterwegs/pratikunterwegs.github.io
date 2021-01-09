@@ -1,0 +1,41 @@
+---
+date: "2018-01-20T00:00:00Z"
+# external_link: "https://github.com/pratikunterwegs/eBirdOccupancy"
+links:
+- icon: github
+  icon_pack: fab
+  name: Source Code
+  url: https://github.com/pratikunterwegs/eBirdOccupancy
+summary: An example of using the in-built project page.
+title: eBird Occupancy Modelling in Tropical Mountains
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+---
+
+Tropical mountains host vast biodiversity, are under massive human pressure, but remain understudied.
+Along with [Vijay Ramesh](https://evolecol.weebly.com/) at Columbia University, [Morgan Tingley](https://www.morgantingley.com/) at UCLA, and [VV Robin](http://www.skyisland.in/) at IISER Tirupati, I looked at how climatic drivers (temperature and rainfall) and land cover types (forests, grassland, tea gardens etc.) influence the occupancy of 93 bird species in the Nligiri and Anamalai hill ranges in southern India.
+
+- We used half a million observations from **eBird** (2013 -- 2019) to answer our questions.
+- This is _the_ first such study of its kind from India, and likely from Asia and from tropical regions generally.
+- We showed that temperature and rainfall were more important drivers than land cover --- and that species responded differently to each.
+
+***
+
+:::: {style="display: flex;"}
+
+::: {}
+
+```{r echo=FALSE, fig.align="left", out.width="90%"}
+knitr::include_graphics("figure.png")
+```
+:::
+
+::: {}
+
+_eBird_ checklists in the southern Western Ghats. Most checklists are near roads, and near each other. Some regions are over-represented, and breaking spatial- and temporal-autocorrelation was a significant part of this project.
+
+:::
+
+::::
